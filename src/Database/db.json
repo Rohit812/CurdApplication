@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Rohit Agrawal",
+      "userName": "mittal8122",
+      "email": "mittalrohit@gmail.com",
+      "phone": "8127000720"
+    },
+    {
+      "id": "2",
+      "name": "Prakhar Omer",
+      "userName": "prakhar812",
+      "email": "prakhar@gmail.com",
+      "phone": "8400955450"
+    },
+    {
+      "name": "Arun",
+      "userName": "arun89",
+      "email": "arun@gmail.com",
+      "phone": "8960123340",
+      "id": "kjmE3v6"
+    },
+    {
+      "name": "prakhar",
+      "userName": "poparkar",
+      "email": "poprakhar840@gmail.com",
+      "phone": "87194165741",
+      "id": "IlAhzQE"
+    }
+  ]
+}
